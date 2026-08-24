@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\algoritmo_de_ordenamiento\algoritmo_de_ordenamiento\bin\Debug\net10.0\algoritmo_de_ordenamiento.exe
+C:\Users\LENOVO\OneDrive\Documentos\algoritmo_de_ordenamiento\algoritmo_de_ordenamiento\bin\Debug\net10.0\algoritmo_de_ordenamiento.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\algoritmo_de_ordenamiento\algoritmo_de_ordenamiento\bin\Debug\net10.0\algoritmo_de_ordenamiento.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\algoritmo_de_ordenamiento\algoritmo_de_ordenamiento\bin\Debug\net10.0\algoritmo_de_ordenamiento.dll
+C:\Users\LENOVO\OneDrive\Documentos\algoritmo_de_ordenamiento\algoritmo_de_ordenamiento\bin\Debug\net10.0\algoritmo_de_ordenamiento.pdb
+C:\Users\LENOVO\OneDrive\Documentos\algoritmo_de_ordenamiento\algoritmo_de_ordenamiento\obj\Debug\net10.0\algoritmo_de_ordenamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\algoritmo_de_ordenamiento\algoritmo_de_ordenamiento\obj\Debug\net10.0\algoritmo_de_ordenamiento.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\algoritmo_de_ordenamiento\algoritmo_de_ordenamiento\obj\Debug\net10.0\algoritmo_de_ordenamiento.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\algoritmo_de_ordenamiento\algoritmo_de_ordenamiento\obj\Debug\net10.0\algoritmo_de_ordenamiento.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\algoritmo_de_ordenamiento\algoritmo_de_ordenamiento\obj\Debug\net10.0\algoritmo_de_ordenamiento.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\algoritmo_de_ordenamiento\algoritmo_de_ordenamiento\obj\Debug\net10.0\algoritmo_de_ordenamiento.dll
+C:\Users\LENOVO\OneDrive\Documentos\algoritmo_de_ordenamiento\algoritmo_de_ordenamiento\obj\Debug\net10.0\refint\algoritmo_de_ordenamiento.dll
+C:\Users\LENOVO\OneDrive\Documentos\algoritmo_de_ordenamiento\algoritmo_de_ordenamiento\obj\Debug\net10.0\algoritmo_de_ordenamiento.pdb
+C:\Users\LENOVO\OneDrive\Documentos\algoritmo_de_ordenamiento\algoritmo_de_ordenamiento\obj\Debug\net10.0\algoritmo_de_ordenamiento.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\algoritmo_de_ordenamiento\algoritmo_de_ordenamiento\obj\Debug\net10.0\ref\algoritmo_de_ordenamiento.dll
